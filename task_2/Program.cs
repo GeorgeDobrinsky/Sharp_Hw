@@ -3,7 +3,7 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 // Дописать программу если числа равны
-Console.Clear();
+
 System.Console.Write("Введите число а- ");
 int a = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите число b- ");
